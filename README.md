@@ -124,8 +124,7 @@ Self-MF/
 ├── tests/
 ├── data/                       Data-format guidance
 ├── requirements.txt
-├── CITATION.cff
-└── THIRD_PARTY_NOTICES.md
+└── CITATION.cff
 ```
 
 ### Environment and data
@@ -166,4 +165,4 @@ If you use Self-MF in your work, please cite:
 
 ## Acknowledgements
 
-The score-based generative modeling components build on the **score_sde_pytorch** project. Third-party components retain their respective original license terms; see [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md) and the accompanying license files.
+Parts of the diffusion-model implementation are adapted from [score_sde_pytorch](https://github.com/yang-song/score_sde_pytorch). We thank the authors for making their code publicly available.
