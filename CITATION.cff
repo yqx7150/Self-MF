@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use Self-MF, please cite the Medical Physics article."
+title: "Self-supervised multi-contrast MRI reconstruction via mask-guided frequency-domain fusion"
+authors:
+  - family-names: Chen
+    given-names: Zhibo
+  - family-names: Wang
+    given-names: Dong
+  - family-names: Guan
+    given-names: Yu
+  - family-names: Ji
+    given-names: Xiang
+  - family-names: Liu
+    given-names: Qiegen
+doi: 10.1002/mp.70708
+preferred-citation:
+  type: article
+  title: "Self-supervised multi-contrast MRI reconstruction via mask-guided frequency-domain fusion"
+  authors:
+    - family-names: Chen
+      given-names: Zhibo
+    - family-names: Wang
+      given-names: Dong
+    - family-names: Guan
+      given-names: Yu
+    - family-names: Ji
+      given-names: Xiang
+    - family-names: Liu
+      given-names: Qiegen
+  journal: "Medical Physics"
+  year: 2026
+  doi: 10.1002/mp.70708

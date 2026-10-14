@@ -1,0 +1,21 @@
+# Install a CUDA-compatible PyTorch build for the target GPU before installing these packages.
+numpy
+scipy
+scikit-image
+matplotlib
+opencv-python
+pandas
+seaborn
+torch
+torchvision
+tensorboard
+tensorflow
+tensorflow-datasets
+tensorflow-gan
+tensorflow-hub
+ml-collections
+absl-py
+jax
+six
+tqdm
+ninja
